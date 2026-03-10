@@ -1,3 +1,4 @@
 python-dotenv==1.0.0
 aiogram==3.13.1
 ollama
+telegramify-markdown
